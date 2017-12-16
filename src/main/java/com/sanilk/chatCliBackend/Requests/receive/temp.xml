@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<request>
+    <type>RECEIVE</type>
+    <sender_nick></sender_nick>
+    <receiver_nick></receiver_nick>
+    <sender_password></sender_password>
+</request>

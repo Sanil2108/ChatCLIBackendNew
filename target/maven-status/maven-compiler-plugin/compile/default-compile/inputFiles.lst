@@ -1,0 +1,11 @@
+/home/sanil/Documents/javaEE/ChatCLIBackend3/src/main/java/com/sanilk/chatCliBackend/Client.java
+/home/sanil/Documents/javaEE/ChatCLIBackend3/src/main/java/com/sanilk/chatCliBackend/Requests/send/SendRequest.java
+/home/sanil/Documents/javaEE/ChatCLIBackend3/src/main/java/com/sanilk/chatCliBackend/Requests/authenticate/AuthenticateRequest.java
+/home/sanil/Documents/javaEE/ChatCLIBackend3/src/main/java/com/sanilk/chatCliBackend/Servlet1.java
+/home/sanil/Documents/javaEE/ChatCLIBackend3/src/main/java/com/sanilk/chatCliBackend/Requests/MyRequest.java
+/home/sanil/Documents/javaEE/ChatCLIBackend3/src/main/java/com/sanilk/chatCliBackend/Requests/sign_up/SignUpRequest.java
+/home/sanil/Documents/javaEE/ChatCLIBackend3/src/main/java/com/sanilk/chatCliBackend/ClientHandler.java
+/home/sanil/Documents/javaEE/ChatCLIBackend3/src/main/java/com/sanilk/chatCliBackend/Requests/receive/ReceiveRequest.java
+/home/sanil/Documents/javaEE/ChatCLIBackend3/src/main/java/com/sanilk/chatCliBackend/JDBCController.java
+/home/sanil/Documents/javaEE/ChatCLIBackend3/src/main/java/com/sanilk/chatCliBackend/Requests/check/CheckRequest.java
+/home/sanil/Documents/javaEE/ChatCLIBackend3/src/main/java/com/sanilk/chatCliBackend/XMLParser.java

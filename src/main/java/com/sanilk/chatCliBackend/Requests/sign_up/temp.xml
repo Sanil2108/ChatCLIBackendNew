@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<request>
+    <type>SIGN_UP</type>
+    <sender_nick></sender_nick>
+    <sender_password></sender_password>
+</request>

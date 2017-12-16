@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<request>
+    <type>SEND</type>
+    <sender_nick></sender_nick>
+    <receiver_nick></receiver_nick>
+    <sender_password></sender_password>
+    <messages>
+        <message>
+            <contents></contents>
+            <encrypt_duration></encrypt_duration>
+        </message>
+    </messages>
+</request>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<request>
+    <type>CHECK</type>
+    <sender_nick></sender_nick>
+    <receivers>
+        <receivers_count></receivers_count>
+        <receiver>
+            <receiver_name></receiver_name>
+        </receiver>
+        <receiver>
+            <receiver_name></receiver_name>
+        </receiver>
+    </receivers>
+    <sender_password></sender_password>
+</request>
